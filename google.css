@@ -128,10 +128,4 @@ body{
     height: 25px;
 
 }
-
-@media all and (min-width:801px) { 
-    main .search{
-        float:left;
-        width: 30%;
-    }
- }
+ 
