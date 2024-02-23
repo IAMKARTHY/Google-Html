@@ -130,7 +130,7 @@ body{
 }
 
 @media all and (min-width:801px) { 
-    main .search, .line3,.bot,.search,.google{
+    main .search{
         float:left;
         width: 30%;
     }
