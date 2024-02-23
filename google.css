@@ -132,7 +132,5 @@ body{
 @media all and (min-width:801px) { 
     main {
         width: 30%;
-        float: left;
-        padding: 10px;
     }
  }
